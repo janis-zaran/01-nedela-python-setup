@@ -1,0 +1,15 @@
+1) Nācās izmantot pāris indiešu YT
+2) uzdevumos nereti nevarēja saprast, jālieto IDE, terminālis vai terminālis iekš IDE
+3) joprojām stipri peldu, neizprotu jēgu no Git, GitHub utt, ja vienkārši saglabā failu kaut vai ar final_final_final_zb_istais, tas taču līdz šim visiem esot strādājis tīri labi :D
+4) ok, šo visu es saprastu labāk, ja ar laiku vienkārši pierastu pie UI, kas ir visai jauns pašam. Kamēr smadzenēs mēģini saslēgt, kur tad īsti atrodas faili. Kā pārbaudīt, vai tas ko dari vispār strādā. ok, ok - laika jautājums, gan jau iebrauks sistēmā.
+5) Nu kaut vai instalējot Git, tur opciju opcijas var izvēlēties instalācijas procesa laikā. Nezinu, vai darīju pareizi - indietis YT palīdzēja izvēlēties.
+6) Izmantoju MI screenshotus, lai vispār iebrauktu, kas kur. Jā, tipa čīto varbūt, bet nu reāli bija vienu brīdi totāls smadzenēs errors, jo nesaproti, kas notiek, kāpēc GitHub reject taisa. Tad saproti, ka es tak to failu biju izdzēsu fiziski no foldera (izbesīja tas fails). Nu un tad ok - maucam no sākuma un tagad labojam šo nesaderību folderos. 
+
+Ne visai: pietrūka tāds basic "rociņas paturēšana" - ierādīšana, kur kādu ķeksīti ielikt :D
+Labā ziņa: rociņu paturēja indieši.
+Superīgā ziņa: viss ir apgūstams.
+
+Par algoritmisko domāšanu - te ir jautājumi. Spēju vizualizēt varbūt koda ietvaros, kur ir apakšā reāls hardwire ar lementāru - ieslēgt lampiņu / izslēgt
+Apstraktam uzdevumam (piemēram, kafijas iegāde) nu tur outcome būs līdzīgs kā smieklīgajā YT video par sviestmaizi, kad "kompis" (sencis) čakarē savus sīkos un ķer no tā kaifu. ok ok, ļoti pamācoši un tā - ideja laba, bet nu pain in ass aprakstīt visus mainīgos :D pacietības jautājums?
+
+Long story short - ar visām "kompīša" zināšanām jutos "atpalicis", bet nu ne pirmā reize, kad apgūstu ko jaunu, pāries:D  Vajag tikai praksi. Visnotaļ fascinē pati ideja, ka tas viss ir iespējams, praksē pielietojams.

@@ -1,0 +1,13 @@
+1. Aizej uz veikalu
+2. Paņem plauktā kafiju
+3. Aizej uz kasēm
+4. Samaksā
+done
+
+Šeit arī var userim var piedāvāt dažādus šķēršļus. Sākot no tā, ka pamosties un vismaz apģērbies utt, ja kafijas nav, meklēt citā veikalā, tik ilgi, kamēr atrodi veikalu, kur tos mekllēt, karoč var sīki un smalki aprakstīt visas dzīves situācijas līdz pat tam, ja nu pēkšņi sāk līt, nevar izpildīt uzdevumu.
+
+JAUTĀJUMS - rakstot šāda veida uzdevumus, jāparedz visi šie gadījumi? Pa lielam uzrakstīt kodu nāktos "steriālā" vidē, kur pieņemam, ka notiks tikai pāris mainīgie, lai gan paredzēt to mēs nevaram.
+
+Ideja skaidra, tikai vēlos saprast, cik smalki būtu jāapraksta, vai algoritma sastādīšanai ir jāņem vērā visādi mainīgie, vai tikai pamats. Un tad, labot algoritmu (kodu) no precedentiem (kasierei atteicās apkalpot, noskanēja veikalā avārijas signāls). 
+
+Un cik smalki aprakstīt. Tā, lai totāls nezinātājs no citas planētas, lasot šo, varētu izpildīt, vai tāds, kas tipa kaut ko zina.
