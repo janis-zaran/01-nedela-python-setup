@@ -1,3 +1,3 @@
-print ("trūkst norādes, kādā vidē, kas rakstāms")
-print ("Nu sveiki")
-print (;tipa speciali ielaista kļūda;)
+print ("Sveiki batareiki") # tipa standarta sākuma frāze laikam
+print (;bla bla bbla.) # Apzināti nepareiza sintakse, lai apskatītos, ko rāda termināli
+print ("ok, nu sanāk ierakstīt kaut ko")
