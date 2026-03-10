@@ -1,0 +1,7 @@
+efb0fe6 (HEAD -> main, origin/main, origin/HEAD) feat: sync organized structure for week 1 and 2
+e3a2aac refactor: move files to src folder as per instructions
+6e1f39d feat: add guessing game with replay option
+46fe90e feat: add fizzbuzz with sys.argv support
+8438383 fix: handle non-numeric input in eligibility checker
+b36890b feat: add unit converter with constants
+c9688de feat: add type explorer with truthy/falsy examples
