@@ -1,0 +1,12 @@
+1. Ieslēgt datoru
+2. Ja prasa ievadīt PIN kodu vai paroli, ievadi. Ja nē, tad seko tālākām norādēm.
+3. Startē interneta pārlūku.
+4. Ievadi adreses joslā https://mail.google.com
+5. Ievadi lietotājvārdu.
+6. Ievadi paroli.
+7. Nospied Enter.
+8. Ja neizdodas, pārbaudi, vai esi ievadījis pareizi savu lietotājvārdu un paroli.
+9. Mēģini tik ilgi, kamēr neapniks :D joks. Izvelc beidzot savu piezīmju blociņu un ieraksti pareizi lietotājvārdu un paroli gmail.com vietnē.
+
+
+Nu šeit ir vieta spēlēties un var šo uztrakstīt gari un plaši, sākot no tā, ka dators neieslēdzas. Pārbaudīt strāvu, interneta savienojumu. Vārdu sakot, kļūdu ir daudz, kur var lietotājam iznest smadzeni, ja gribētos. 
